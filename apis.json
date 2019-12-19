@@ -1,0 +1,71 @@
+{
+    "name": "Hiveage",
+    "description": "<p>Hiveage is an online billing service for freelancers and small businesses, designed and developed by Vesess. Being a small business ourselves, we&rsquo;re well aware of the difficulties they face in managing finances, and Hiveage is our take on how to simplify the process.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Hiveage-logo.png",
+    "tags": [
+        "api provider",
+        "billing",
+        "have api",
+        "invoices",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/hiveage\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Hiveage",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Hiveage-logo.png",
+            "humanURL": "http:\/\/www.hiveage.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/hiveage-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/www.hiveage.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.hiveage.com\/feed\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/www.hiveage.com\/pricing\/"
+        },
+        {
+            "type": "Privacy",
+            "url": "http:\/\/www.hiveage.com\/privacy\/"
+        },
+        {
+            "type": "Road Map",
+            "url": "http:\/\/www.hiveage.com\/roadmap\/"
+        },
+        {
+            "type": "Status",
+            "url": "http:\/\/www.hiveage.com\/status\/"
+        },
+        {
+            "type": "Terms of Service",
+            "url": "http:\/\/www.hiveage.com\/tos\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/hiveage"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.hiveage.com\/"
+        }
+    ]
+}
